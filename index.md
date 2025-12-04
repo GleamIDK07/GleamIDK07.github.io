@@ -4,7 +4,7 @@ This is my home page! My name is Bryan Ramirez and i am a student at [Cal State 
 
 ## Computer Science Projects
 
-My gitHub page can be found here [https://github.com/GleamIDK07/GleamIDK07.github.io] (https://github.com/GleamIDK07/GleamIDK07.github.io)
+My gitHub page can be ([found here](https://github.com/GleamIDK07/GleamIDK07.github.io))
 
 ### CPSC 120
 
